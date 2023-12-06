@@ -54,10 +54,11 @@ src="https://img.shields.io/youtube/channel/subscribers/UCi1iBFQphcwWZc70hpslV7w
 
 <p align="center"> <a href="https://github.com/6sh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahdi-almuhanna-270b01276" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/i1iox" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@ic1x" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-
+<!--
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/6sh">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=6sh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6sh&theme=dark"/>
 </a>
+-->
