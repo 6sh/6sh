@@ -6,8 +6,8 @@ I'm a Content Creator / Lead with over a decade+ of experience and you've stumbl
 * 📝  I write stuff at [mhdi.cc](https://mhdi.cc)
 * 🔭  I’m currently working on digital marketing since last few years
 * 🧠  I'm learning about website and app development as well as the latest cool things happening in the digital world
-* 🤝  I'm open to business cooperation
-* ⚡  I'm a Coffee lover at heart
+* 🤝  I'm open to cooperation
+* ☕  I'm a Coffee lover at heart
 
 <a href="https://github.com/6sh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/6sh?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
