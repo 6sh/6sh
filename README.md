@@ -10,12 +10,12 @@ I'm a Content Creator / Lead with over a decade+ of experience and you've stumbl
 * ☕  I'm a Coffee lover at heart
 
 <a href="https://github.com/6sh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/6sh?logo=github&style=for-the-badge&color=310087&labelColor=090087" /></a>
+src="https://img.shields.io/github/followers/6sh?logo=github&style=for-the-badge&color=990000&labelColor=000000" /></a>
 <a href="https://twitter.com/i1iox" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/i1iox?logo=twitter&style=for-the-badge&color=310087&labelColor=090087"
+src="https://img.shields.io/twitter/follow/i1iox?logo=twitter&style=for-the-badge&color=990000&labelColor=000000"
 /></a>
 <a href="https://www.youtube.com/@ic1x" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/youtube/channel/subscribers/UCi1iBFQphcwWZc70hpslV7w?logo=youtube&style=for-the-badge&color=310087&labelColor=090087"
+src="https://img.shields.io/youtube/channel/subscribers/UCi1iBFQphcwWZc70hpslV7w?logo=youtube&style=for-the-badge&color=990000&labelColor=000000"
 /></a>
 
 <a href="https://www.linkedin.com/in/mahdi-almuhanna-270b01276" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
