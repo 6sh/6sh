@@ -21,9 +21,9 @@ src="https://img.shields.io/youtube/channel/subscribers/UCi1iBFQphcwWZc70hpslV7w
 ## Skills
 
 <p align="left">
-<a href="https://www.adobe.com/apps/all/desktop/pdp/illustrator" target="_blank" rel="noreferrer"><img src="https://ffc-static-cdn.oobesaas.adobe.com/icons/ILST/28.0/96x96.png" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.adobe.com/apps/all/desktop/pdp/photoshop" target="_blank" rel="noreferrer"><img src="https://ffc-static-cdn.oobesaas.adobe.com/icons/PHSP/25.2/96x96.png" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.adobe.com/apps/all/desktop/pdp/after-effects" target="_blank" rel="noreferrer"><img src="https://ffc-static-cdn.oobesaas.adobe.com/icons/AEFT/24.1/96x96.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/illustrator" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/68116594/288511491-fd2ea351-7dc9-406e-9755-10e8e9cfdf1f.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/photoshop" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/68116594/288511494-d4f1fd38-beb2-4bd5-831a-1baf4f5d40e3.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/after-effects" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/68116594/288511480-273a74f7-3147-47f9-9a0b-264f52671114.png" width="36" height="36" alt="JavaScript" /></a>
 </p>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
