@@ -4,7 +4,7 @@ I'm a Content Creator / Lead with over a decade+ of experience and you've stumbl
 
 * 🌍  I'm based in Eastern Province, KSA
 * 📝  I write stuff at [mhdi.cc](https://mhdi.cc)
-* 🔭  I’m currently working on digital marketing since last few years
+* 🔭  I’m currently working on graphic design since last few years
 * 🧠  I'm learning about website and app development as well as the latest cool things happening in the digital world
 * 🤝  I'm open to cooperation
 * ☕  I'm a Coffee lover at heart
