@@ -27,9 +27,9 @@ src="https://img.shields.io/youtube/channel/subscribers/UCi1iBFQphcwWZc70hpslV7w
 ## Skills
 
 <p align="left">
-<a href="https://www.adobe.com/apps/all/desktop/pdp/illustrator" target="_blank" rel="noreferrer"><img src="https://ffc-static-cdn.oobesaas.adobe.com/icons/ILST/28.5/96x96.png" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.adobe.com/apps/all/desktop/pdp/photoshop" target="_blank" rel="noreferrer"><img src="https://ffc-static-cdn.oobesaas.adobe.com/icons/PHSP/25.9/96x96.png" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.adobe.com/apps/all/desktop/pdp/after-effects" target="_blank" rel="noreferrer"><img src="https://ffc-static-cdn.oobesaas.adobe.com/icons/AEFT/24.4.1/96x96.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/illustrator" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/adobeillustrator.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/photoshop" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/adobephotoshop.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/after-effects" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/adobeaftereffects.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.adobe.com/apps/all/desktop/pdp/premiere-pro" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/adobepremierepro.svg" width="36" height="36" alt="JavaScript" /></a>
 
 </p>
