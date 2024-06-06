@@ -27,10 +27,12 @@ src="https://img.shields.io/youtube/channel/subscribers/UCi1iBFQphcwWZc70hpslV7w
 ## Skills
 
 <p align="left">
-<a href="https://www.adobe.com/apps/all/desktop/pdp/illustrator" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/adobeillustrator.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.adobe.com/apps/all/desktop/pdp/photoshop" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/adobephotoshop.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.adobe.com/apps/all/desktop/pdp/after-effects" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/adobeaftereffects.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.adobe.com/apps/all/desktop/pdp/premiere-pro" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/adobepremierepro.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/illustrator" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/GitHub/Ai.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/photoshop" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/GitHub/Ps.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/after-effects" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/GitHub/Ae.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/premiere-pro" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/GitHub/Pr.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/audition" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/GitHub/Au.png" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.adobe.com/apps/all/desktop/pdp/lightroom-classic" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/GitHub/LrC.png" width="36" height="36" alt="JavaScript" /></a>
 
 </p>
 <p align="left">
