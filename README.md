@@ -49,7 +49,7 @@ src="https://img.shields.io/youtube/channel/subscribers/UCi1iBFQphcwWZc70hpslV7w
 <a href="https://www.snapchat.com/add/mhdi.cc" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/Snapchat.svg" width="32" height="32" /></a>
 <a href="https://www.tiktok.com/@w3w" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/TikTok.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/@mhdi1c" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/YouTube.svg" width="32" height="32" /></a>
-<a href="https://twitter.com/mhdi1c" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/X.svg" width="32" height="32" /></a>
+<a href="https://twitter.com/mhdi1c" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/X2.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/mhdi.cc" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/Facebook.svg" width="32" height="32" /></a>
 <a href="https://wa.me/966595554296" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/WhatsApp.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/mahdi-almuhanna-270b01276" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/LinkedIn.svg" width="32" height="32" /></a>
