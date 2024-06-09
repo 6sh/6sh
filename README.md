@@ -57,13 +57,7 @@ src="https://img.shields.io/youtube/channel/subscribers/UCi1iBFQphcwWZc70hpslV7w
 <a href="https://github.com/6sh" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/GitHub.svg" width="32" height="32" /></a>
 <a href="https://paypal.me/x1mx" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/PayPal.svg" width="32" height="32" /></a>
 <a href="mailto:support@mhdi.cc" target="_blank" rel="noreferrer"><img src="https://cdn.mhdi.cc/img/sm/Email2.svg" width="32" height="32" /></a>
-
-
-
-<a href="https://github.com/6sh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/mahdi-almuhanna-270b01276" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://twitter.com/mhdi1c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/@mhdi1c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> </p>
+</p>
 
 <!--
 <b>My GitHub Stats</b>
